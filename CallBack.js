@@ -1,7 +1,7 @@
 // call back
 
 
-//normal two function
+// normal two function
 
 // function a(){
 //     console.log("inside function A");
