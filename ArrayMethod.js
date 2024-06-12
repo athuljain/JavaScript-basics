@@ -1,9 +1,9 @@
 //JS Array Methods
 
-// let fruits = ['apple', 'banana', 'cherry','mango'];
-//  console.log(fruits[0]); 
+let fruits = ['apple', 'banana', 'cherry','mango'];
+//  console.log(fruits[1]); 
 // console.log(fruits[2]); 
-
+// console.log(fruits);
 
 // fruits.push('date');
 // console.log(fruits);
@@ -12,28 +12,29 @@
 // let lastFruit = fruits.pop();
 // console.log(lastFruit); 
 // console.log(fruits); 
-//  console.log(fruits)
+
+ console.log(fruits)
 // let firstFruit = fruits.shift();
 // console.log(firstFruit); 
 // console.log(fruits); 
 
-// fruits.unshift('apple');
+// fruits.unshift('xcvbn');
 //  console.log(fruits);
 
-// let position = fruits.indexOf('cherry');
+// let position = fruits.indexOf('mango');
 // console.log(position);
 
 
 
-// fruits.splice(1,2)
+// fruits.splice(3,2)
 // console.log(fruits)
 
 
-// fruits.splice(0,1, 'blueberry', 'blackberry');
+// fruits.splice(0,2, 'blueberry', 'blackberry',);
 // console.log(fruits);
 
-// let newFruits = fruits.slice(0, 2);
-// console.log(newFruits);
+// let newFruits = fruits.slice(1, 3);
+// console.log("new f",newFruits);
 
 
 // fruits.forEach(function(fruit) {
