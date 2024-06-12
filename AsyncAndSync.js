@@ -2,7 +2,7 @@
 
 // // Simulating a blocking operation
 
-// for (let i = 0; i < 100; i++) {
+// for (let i = 0; i < 1000; i++) {
 //   console.log(i)
 // }
 
@@ -18,11 +18,13 @@
 // }
 
 //   console.log("Async operation completed");
-// }, 2000); 
+// }, 1000); 
 
 // console.log("End");
 
-// // Function to be executed
+
+
+// Function to be executed
 // function sayHello() {
 //     console.log("Hello, world!");
 // }
