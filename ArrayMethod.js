@@ -1,6 +1,6 @@
 //JS Array Methods
 
-let fruits = ['apple', 'banana', 'cherry','mango'];
+// let fruits = ['apple', 'banana', 'cherry','mango'];
 //  console.log(fruits[1]); 
 // console.log(fruits[2]); 
 // console.log(fruits);
@@ -13,7 +13,7 @@ let fruits = ['apple', 'banana', 'cherry','mango'];
 // console.log(lastFruit); 
 // console.log(fruits); 
 
- console.log(fruits)
+//  console.log(fruits)
 // let firstFruit = fruits.shift();
 // console.log(firstFruit); 
 // console.log(fruits); 
@@ -41,7 +41,7 @@ let fruits = ['apple', 'banana', 'cherry','mango'];
 //   console.log(fruit);
 // });
 
-// let upperCaseFruits = fruits.map(function(fruit) {
+// let upperCaseFruits = fruits.map(function(fruit,index) {
 //   return fruit.toUpperCase();
 // });
 // console.log(upperCaseFruits);
@@ -51,7 +51,7 @@ let fruits = ['apple', 'banana', 'cherry','mango'];
 
 // let numbers = [1, 2, 3, 4, 5];
 // let sum = numbers.reduce(function(total, num) {
-//   return total + num;
+//   return total * num;
 // }, 0);
 
 // console.log(numbers)
@@ -59,7 +59,7 @@ let fruits = ['apple', 'banana', 'cherry','mango'];
 
 
 // let foundFruit = fruits.find(function(fruit) {
-//   return fruit.startsWith('');
+//   return fruit.startsWith('app');
 // });
 // console.log(foundFruit); 
 
